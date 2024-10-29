@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "think",
+  "steps": [
+    {
+      "file": "序列.md",
+      "description": "没有无理数就不是这样了？",
+      "line": 23
+    }
+  ],
+  "ref": "main"
+}
